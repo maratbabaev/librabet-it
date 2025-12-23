@@ -754,4 +754,13 @@ footer {
 			}
 		}
 	}
+	.cards__item__content {
+		justify-content: center;
+	}
+	.cards {
+		margin-top: 20px;
+	}
+	.cards__item::before {
+		display: none;
+	}
 }

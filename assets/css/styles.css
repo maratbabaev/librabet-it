@@ -703,4 +703,13 @@ footer {
     padding: 0 20px;
     font-size: 16px;
   }
+  .cards__item__content {
+    justify-content: center;
+  }
+  .cards {
+    margin-top: 20px;
+  }
+  .cards__item::before {
+    display: none;
+  }
 }/*# sourceMappingURL=styles.css.map */
